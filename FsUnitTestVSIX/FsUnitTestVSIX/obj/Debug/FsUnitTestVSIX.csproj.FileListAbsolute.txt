@@ -1,0 +1,7 @@
+C:\git\FsMsTestTemplate\FsUnitTestVSIX\FsUnitTestVSIX\bin\Debug\ProjectTemplates\Test\FsMsTest.zip
+C:\git\FsMsTestTemplate\FsUnitTestVSIX\FsUnitTestVSIX\bin\Debug\FsUnitTestVSIX.vsix
+C:\git\FsMsTestTemplate\FsUnitTestVSIX\FsUnitTestVSIX\bin\Debug\extension.vsixmanifest
+C:\git\FsMsTestTemplate\FsUnitTestVSIX\FsUnitTestVSIX\obj\Debug\ResolveAssemblyReference.cache
+C:\git\FsMsTestTemplate\FsUnitTestVSIX\FsUnitTestVSIX\obj\Debug\FsUnitTestVSIX.dll
+C:\git\FsMsTestTemplate\FsUnitTestVSIX\FsUnitTestVSIX\obj\Debug\FsUnitTestVSIX.pdb
+C:\git\FsMsTestTemplate\FsUnitTestVSIX\FsUnitTestVSIX\obj\Debug\extension.vsixmanifest
